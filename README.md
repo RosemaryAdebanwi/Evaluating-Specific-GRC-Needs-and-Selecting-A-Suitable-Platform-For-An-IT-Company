@@ -16,7 +16,7 @@ At an IT company, I was tasked with strengthening IT governance and compliance t
 <h2>Recommended GRC Platforms:</h2>
 
 <a href="https://www.servicenow.com" target="_blank"><img src="https://img.shields.io/badge/-ServiceNow-4B0082?&style=for-the-badge&logo=ServiceNow&logoColor=white" /></a>
-<a href="https://www.rsa.com/en-us/products/rsa-archer-suite" target="_blank"><img src="https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black" /></a>
+<a href="https://www.archerirm.com/?utm_" target="_blank"><img src="https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black" /></a>
 <a href="https://www.ibm.com/products/openpages" target="_blank"><img src="https://img.shields.io/badge/-IBM_OpenPages-4169E1?&style=for-the-badge&logo=IBM&logoColor=white" /></a>
 
 
